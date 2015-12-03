@@ -1,22 +1,22 @@
 # FreshersSeminar2015
 青山学院大学 フレッシャーズセミナー２０１５
 
-* AGU Indoor Mapping
+**AGU Indoor Mapping**
 
-- memo: https://hackpad.com/-Indoor-Mapping--vObpO1kWjMk
-- data: https://github.com/furuhashilab/FreshersSeminar2015/issues/1
-- OSMwiki: https://wiki.openstreetmap.org/wiki/AGU_Indoor_Mapping
-
-
-* AGU Building Element View
+* memo: https://hackpad.com/-Indoor-Mapping--vObpO1kWjMk
+* data: https://github.com/furuhashilab/FreshersSeminar2015/issues/1
+* OSMwiki: https://wiki.openstreetmap.org/wiki/AGU_Indoor_Mapping
 
 
-* AGU Drone Aerial Research
-
-- data: https://github.com/furuhashilab/FreshersSeminar2015/issues/2
+**AGU Building Element View**
 
 
-* AGU StreetView
+**AGU Drone Aerial Research**
+
+* data: https://github.com/furuhashilab/FreshersSeminar2015/issues/2
 
 
-© Furuhashi Lab, AoyamaGakuin, CC BY 4.0 
+**AGU StreetView**
+
+
+*© Furuhashi Lab, AoyamaGakuin, CC BY 4.0*
