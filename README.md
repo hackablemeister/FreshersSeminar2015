@@ -14,7 +14,7 @@
 **AGU Drone Aerial Research**
 
 * data: https://github.com/furuhashilab/FreshersSeminar2015/issues/2
-
+　memo: https://hackpad.com/-AGU-Drone-Aerial-Research--cPAibpRMxEH
 
 **AGU StreetView**
 
